@@ -3,8 +3,6 @@
 🎓 **Engineering Student in Artificial Intelligence at CentraleSupélec, Paris-Saclay Univerisity** 
 💡 Passionate about **multi-agent systems**, **world models**, and **human-AI cooperation**.
 
----
-
 ## 🧩 Research & Experience
 
 ### 🎓 Research Student — CentraleSupélec  
