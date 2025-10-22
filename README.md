@@ -1,36 +1,56 @@
-# Hi there, I'm Tomas 👋
+# 👋 Hi, I'm Tomas Stone
 
-🎓 **Master's student majoring in Data & AI** | 🔬 **Researcher in Machine Learning for Cancer**
+🎓 **Engineering Student in Artificial Intelligence at CentraleSupélec, Paris-Saclay Univerisity** 
+💡 Passionate about **multi-agent systems**, **world models**, and **human-AI cooperation**.
 
-## 🚀 Tech Stack:
-- **Programming Languages**: Python, SQL, R, C#
-- **Data Tools**: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
-- **Web Development**: React, Node.js, Flask
-- **Cloud & DevOps**: AWS, Docker, Git
+---
 
-## 🌟 Featured Projects:
-### [📊 Data Science Portfolio](https://github.com/Tomas-Stone/data-science-portfolio)
-A collection of my data science projects, including:
-- **Image Captioning**:
-<!--
-## 📊 **GitHub Stats**:
-![Tomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomas-Stone&show_icons=true&theme=radical)
--->
+## 🧩 Research & Experience
 
-## 📫 Get in Touch:
-- 💼 [LinkedIn](https://linkedin.com/in/tomas-stone-5a785b1ab)
-- 📧 Email: tomas.stone@edu.devinci.fr
-<!--
-**Tomas-Stone/Tomas-Stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Research Student — CentraleSupélec  
+*Sep 2025 – Present, Paris, FR*  
+- Integrated **latent teammate modeling** into world models for cooperative **multi-agent reinforcement learning**.  
+- Designed a **Theory-of-Mind head** to infer teammate behavior from partial trajectories.  
+- Enabled **zero-shot coordination** by conditioning an actor-critic on inferred teammate latents.
 
-Here are some ideas to get you started:
+### 💼 Data Scientist Intern — Rakuten  
+*Apr 2025 – Sep 2025, Paris, FR*  
+- Deployed an **LLM pipeline** on GCP/Airflow, improving product categorization accuracy from 50% → **90%+**.  
+- Built a **recommendation system API** for millions of products using temporal and aggregated features.  
+- Designed real-time **model evaluation dashboards** in DOMO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Founder — FitCV  
+*Feb 2025 – Aug 2025*  
+- Built **FitCV**, an AI-powered CV builder using the **Mistral API**.  
+- Developed a **secure full-stack app** with authentication, payments, and an intuitive UI.
+
+### 🧬 Research Assistant — UROP  
+*Sep 2023 – Feb 2024, Paris, FR*  
+- Built a **deep neural network** to decode directional intent from live **EEG data** for thought-based control.  
+- Developed a **personalized fine-tuning protocol** for adaptive 3D avatar control.
+
+---
+
+## 📚 Publication
+
+**SAF: A Multi-Axis Audit for Reliable and Equitable Models in Computational Biology** *(Jan 2025)*  
+*Tomas Stone, Valentin Dugay, Guillaume Guerard*  
+> A framework for multi-axis fairness and reliability in biomedical AI models.
+
+---
+
+## 🌟 Featured Projects
+
+### [🤖 Web Agent](https://github.com/Tomas-Stone/Web-Agent)
+Fine-tuned a **vision-language model** for **UI grounding and web navigation** using reinforcement learning.
+
+### [🖼️ Image Captioning](https://github.com/Tomas-Stone/Image-Captioning)
+Developed an **image captioning model** using **VGG16 + LSTM**, evaluated via **BLEU scores**.
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/tomas-stone-5a785b1ab)  
+- 🧠 [GitHub](https://github.com/Tomas-Stone)  
+- 📧 [tomas.stone@student-cs.fr](mailto:tomas.stone@student-cs.fr)
