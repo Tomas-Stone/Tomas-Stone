@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomas Stone
 
-🎓 **Engineering Student in Artificial Intelligence at CentraleSupélec, Paris-Saclay Univerisity** 
+🎓 **Engineering Student in Artificial Intelligence at CentraleSupélec, Paris-Saclay Univerisity**    
 💡 Passionate about **multi-agent systems**, **world models**, and **human-AI cooperation**.
 
 ## 🧩 Research & Experience
